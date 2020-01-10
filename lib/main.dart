@@ -29,14 +29,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     // final twee = TrackT
     return Scaffold(
-      body: Stack(
-        // width: MediaQuery.of(context).size.width,
-        // height: MediaQuery.of(context).size.height,
-        // color: Colors.blue.withAlpha(100),
-        children:<Widget>[
-           Index(),
-        ],
-      ),
+      body: Index(),
     );
   }
 }

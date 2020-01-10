@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478288509461",
+    "firebase_url": "https://login-aa148.firebaseio.com",
+    "project_id": "login-aa148",
+    "storage_bucket": "login-aa148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478288509461:android:2dc064c4df7f851dacec1c",
+        "android_client_info": {
+          "package_name": "com.example.apphorario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478288509461-2tfe5aq91vr9c6k5vok8hfi5na8l9tr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apphorario",
+            "certificate_hash": "ead130eaa05d537d7673e3dd951c5e2e4839db48"
+          }
+        },
+        {
+          "client_id": "478288509461-8sk3uikmucsfuatmn54ld2cv7rf5jr88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95A7nua9ZeJW_JrcFZx0ywyGde6l0RSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478288509461-8sk3uikmucsfuatmn54ld2cv7rf5jr88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

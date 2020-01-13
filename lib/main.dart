@@ -1,6 +1,6 @@
+import 'package:apphorario/UI/Expenses.dart';
 import 'package:apphorario/resources/RouteName.dart';
 import 'package:flutter/material.dart';
-import 'package:simple_animations/simple_animations.dart';
 import 'UI/Index.dart';
 
 void main() => runApp(MyApp());
@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
         RouteName.index: (context) => Index(
               title: 'Hola',
             ),
+        RouteName.expenses: (context) => Expenses(),
+        // RouteName.expenses: (context) => ExpBody(),
       },
     );
   }

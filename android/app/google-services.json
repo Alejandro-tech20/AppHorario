@@ -8,20 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:478288509461:android:2dc064c4df7f851dacec1c",
+        "mobilesdk_app_id": "1:478288509461:android:d7f5b7e1479077efacec1c",
         "android_client_info": {
           "package_name": "com.example.apphorario"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "478288509461-2tfe5aq91vr9c6k5vok8hfi5na8l9tr2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.apphorario",
-            "certificate_hash": "ead130eaa05d537d7673e3dd951c5e2e4839db48"
-          }
-        },
         {
           "client_id": "478288509461-8sk3uikmucsfuatmn54ld2cv7rf5jr88.apps.googleusercontent.com",
           "client_type": 3
